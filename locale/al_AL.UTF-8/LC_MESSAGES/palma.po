@@ -166,8 +166,9 @@ msgstr "Me PalMa, mund te shperndani dokumentat dhe desktopin tuaj me grupin e s
 msgid ""
 "Team members can join the group at any time. All they need\n"
 "            is URL and PIN."
-msgstr "Pjesetaret e grupit mund t'i bashkohen grupit ne cdo kohe. Gjithcka
-				qe duhet eshte nje URL dhe nje PIN"
+msgstr ""
+"Pjesetaret e grupit mund t'i bashkohen grupit ne cdo kohe. Gjithcka"
+"qe duhet eshte nje URL dhe nje PIN"
 
 #: index.php:1200
 msgid ""
